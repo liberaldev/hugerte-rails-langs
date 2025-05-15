@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "hugerte-rails-langs"
-  s.version = "1.0.9"
+  s.version = "1.20250515"
   s.summary = "Additional language packs for hugerte-rails."
   s.files = Dir["README.md", "LICENSE", "lib/**/*", "vendor/**/*"]
   s.authors = ["Liberal Dev", "Sam Pohlenz"]
